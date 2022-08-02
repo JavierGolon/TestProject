@@ -1,0 +1,17 @@
+[DEFAULT]
+db_host = vnadapex01.viscosityna.com
+db_port = 1521
+db_service_type = SERVICE_NAME
+db_service = DEV
+db_user = JGOLON
+db_pwd = nolog#123
+apex_workspace = JGOLON
+apex_workspace_id = 215941952601575223
+apex_ws_schema = JGOLON
+orig_workspace_id = 215941952601575223
+orig_app_id = None
+orig_offset = 0
+orig_owner = None
+install_app_id = 
+install_offset = 
+
